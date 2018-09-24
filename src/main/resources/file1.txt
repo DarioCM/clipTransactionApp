@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "transactionID": "afe3e567-3b95-4f8c-9049-10f2bbde416f",
+      "amount": 1.23,
+      "description": "Joes Tacos",
+      "date": "Dec 30, 2018 12:00:00 AM",
+      "user_id": 345
+    },
+    {
+      "transactionID": "955567d6-d9f7-44f1-8d43-4a29fddf2ac1",
+      "amount": 1.23,
+      "description": "Joes Tacos",
+      "date": "Dec 30, 2018 12:00:00 AM",
+      "user_id": 345
+    },
+    {
+      "transactionID": "e82dd7a4-b430-4e75-b1b4-fc380728463a",
+      "amount": 1.23,
+      "description": "Joes Tacos",
+      "date": "Dec 30, 2018 12:00:00 AM",
+      "user_id": 345
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+TransactionDTO{transactionID='914c76cc-2515-4147-ba4c-8e7228bfc811', amount=1.23, description='Joes Tacos', date=Sat Dec 29 18:00:00 CST 2018, user_id=345}
